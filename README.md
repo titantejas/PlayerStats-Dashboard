@@ -11,6 +11,8 @@ Real-time leaderboard and analytics platform for competitive player stats.
 
 React + TypeScript frontend. Node.js + Express + MongoDB + WebSocket backend. JWT auth. REST + live updates.
 
+<img width="1672" height="941" alt="Neon Gaming Analytics Dashboard" src="https://github.com/user-attachments/assets/37a25a66-9893-4935-9df2-e3e7823be7f5" />
+
 ---
 
 ## Features
